@@ -106,8 +106,8 @@
         }
     }
     if(isset($_POST['deleteRowMovie'])){
-        $idRowMovie =  $_POST['idRowMovie'];
-        $sql_deleteShowing = mysqli_query($mysqli,"DELETE FROM `movie` WHERE `movie_id` = '$idRowMovie'");
+        $idRowMovieDelete =  $_POST['idRowMovie'];
+        $sql_deleteShowing = mysqli_query($mysqli,"DELETE FROM `movie` WHERE `movie_id` = '$idRowMovieDelete'");
         echo "<script type='text/javascript'>alert('Xóa phim thành công');</script>";
     }
     if(isset($_POST['addShowing'])){

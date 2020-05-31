@@ -7,7 +7,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/chatbot/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
@@ -43,6 +44,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/chatbot/vendor/composer" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/botman/driver-facebook" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/mpociot/pipeline" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/spatie/macroable" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/botman/botman" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/tightenco/collect" />
+      <path value="$PROJECT_DIR$/chatbot/vendor/evenement/evenement" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1Z3qCkuBXdjbAvmwBEaYXDwDF8F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -55,7 +82,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PHP_MCV" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -92,6 +119,7 @@
       <workItem from="1589769625313" duration="6726000" />
       <workItem from="1589866439054" duration="170000" />
       <workItem from="1589869489938" duration="15913000" />
+      <workItem from="1590219061937" duration="39000" />
     </task>
     <servers />
   </component>
@@ -107,6 +135,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586342258076" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1590219096593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590219096593" />
     <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1586342265531">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -119,10 +151,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584887383607" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589869497138">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1590219061460">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589869497138" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590219061460" />
     <state x="551" y="23" width="737" height="606" key="find.popup" timestamp="1589120822298">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

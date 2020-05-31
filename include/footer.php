@@ -41,8 +41,9 @@
                 <div class="col-md-10 col-sm-10 col-10">
                     <h4>Đồ Án Môn Học Lập Trình Web Và Ứng Dụng .</h4>
                     <div>Liên Hệ: Võ Nhật Trường, email: 51702210@student.tdtu.edu.vn .</div>
+                    <div>Liên Hệ: Phạm Thành Đạt, email: 51702221@student.tdtu.edu.vn .</div>
                     <div>Địa Chỉ: 19 Đường Nguyễn Hữu Thọ, Tân Phong, Quận 7, Hồ Chí Minh.</div>
-                    <div>Điện thoại: 0905098562 .</div>
+                    <div>Điện thoại: 0905098562.</div>
                     <div>COPYRIGHT 2020 TDTU. All RIGHTS RESERVED .</div>
                 </div>
             </div>

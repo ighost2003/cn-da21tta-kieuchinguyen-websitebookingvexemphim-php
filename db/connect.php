@@ -1,9 +1,15 @@
-<?php
-$mysqli = new mysqli("mwgmw3rs78pvwk4e.cbetxkdyhwsb.us-east-1.rds.amazonaws.com","z66acxpeqb2unca5","lyej77dqj5bnwjpo","t95ih95l23muqm4u");
 
-// Check connection
-if ($mysqli -> connect_errno) {
-  echo "Failed to connect to MySQL: " . $mysqli -> connect_error;
-  exit();
+<?php
+$servername = "localhost";
+$username = "root"; // Thường là "root" trong XAMPP
+$password = ""; // Nếu bạn không đặt mật khẩu cho root, để trống
+$dbname = "CGVDB";
+
+// Tạo kết nối
+$mysqli = new mysqli($servername, $username, $password, $dbname);
+
+// Kiểm tra kết nối
+if ($mysqli->connect_error) {
+    die("Kết nối thất bại: " . $mysqli->connect_error);
 }
 ?>

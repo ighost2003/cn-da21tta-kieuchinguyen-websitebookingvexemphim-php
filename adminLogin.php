@@ -55,7 +55,7 @@
                 <label for="inputPassword" class="sr-only">Mật Khẩu</label>
                 <input type="password" id="inputPassword" name = "inputPasswordLogin" class="form-control" placeholder="Mật Khẩu" required="">
                 <button class="btn btn-lg btn-primary btn-block" type="submit" name="adminLoginSubmit">Đăng Nhập</button>
-                <p class="mt-5 mb-3 text-muted">© 2019-2020</p>
+                <p class="mt-5 mb-3 text-muted">© 2024</p>
             </form>
         </div>
     </div>

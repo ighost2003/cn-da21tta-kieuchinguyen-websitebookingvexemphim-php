@@ -16,7 +16,7 @@
             <a href="?controller=newsDetail&id=<?php echo $row_listNews['news_id']?>">
                 <img src="<?php echo $row_listNews['news_imgS']?>" alt="">
                 <i class="far fa-calendar-alt"></i>
-                <span>05/03 - 05/05/2020</span>
+                <span>11/11 - 01/01/2025</span>
             </a>
         </div>
         <?php

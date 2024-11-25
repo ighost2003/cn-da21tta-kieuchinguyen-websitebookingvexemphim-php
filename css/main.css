@@ -250,3 +250,16 @@
         font-size: 10px;   
     }
 }
+/* Container chứa hai phần "CGV Việt Nam" và "Điều khoản sử dụng" */
+.footer-cgv-container {
+    display: flex;
+    justify-content: space-between; /* Giữa các phần có khoảng cách */
+    gap: 20px; /* Khoảng cách giữa hai mục */
+    flex-wrap: wrap; /* Tự động xuống dòng nếu không đủ chỗ */
+}
+
+/* Thiết lập cho các mục con để đảm bảo cân đối */
+.footer-cgv-policy {
+    flex: 1; /* Để cả hai phần có chiều rộng bằng nhau */
+    min-width: 300px; /* Đảm bảo kích thước tối thiểu cho mỗi phần */
+}

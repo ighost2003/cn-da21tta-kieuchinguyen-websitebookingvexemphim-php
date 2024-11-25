@@ -55,8 +55,8 @@
                     </ul>";
         }else{
             echo '<ul>
-            <a href="">tuyển dụng</a>
-            <a href="">liên hệ cgv</a>
+            <a href="">Tin mới & Ưu đãi</a>
+            <a href="">Vé Của Tôi</a>
             <a href="" data-toggle="modal" data-target="#login">đăng nhập/đăng ký</a>
         </ul>';
         }

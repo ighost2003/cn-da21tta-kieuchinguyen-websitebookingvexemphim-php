@@ -51,7 +51,7 @@ include_once("db/connect.php");
                                 </div>
 
                                 <div class="mb-3">
-                                    <label for="actor">Diễn viên <span class="text-muted">(Vd: Nhật Trường, Ngọc Anh,...)</span></label>
+                                    <label for="actor">Diễn viên <span class="text-muted">(Vd: Chí Nguyện, Hoài Linh,...)</span></label>
                                     <input type="text" class="form-control" id="actor" name = "actor" placeholder="" required="">
                                 </div>
 
@@ -163,7 +163,7 @@ include_once("db/connect.php");
                                                 </div>
 
                                                 <div class="mb-3">
-                                                    <label for="actorEdit">Diễn viên <span class="text-muted">(Vd: Nhật Trường, Ngọc Anh,...)</span></label>
+                                                    <label for="actorEdit">Diễn viên <span class="text-muted">(Vd: Chí Nguyện, Hoài Linh,...)</span></label>
                                                     <input type="text" class="form-control" id="actorEdit" name = "actorEdit" value="<?php echo $row_listMovie['movie_cast']; ?>" required="">
                                                 </div>
 

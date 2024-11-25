@@ -73,7 +73,7 @@ include_once("db/connect.php");
                                 </div>
                                 <div class="form-group">
                                     <label for="addShowingTime">Thời gian:</label>
-                                    <input type="text" class="form-control" name = "addShowingTime" id="addShowingTime" value="" placeholder="2020-05-01 19:00:00">
+                                    <input type="text" class="form-control" name = "addShowingTime" id="addShowingTime" value="" placeholder="2024-11-20 19:00:00">
                                     <small class="form-text text-muted">*Lưu ý: Điền theo format YYYY-MM-DD HH:MM:SS</small>
                                 </div>
                                 <button type="submit" name ="addShowing" class="btn btn-primary">Thêm Mới</button>

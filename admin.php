@@ -345,7 +345,7 @@
         <div class="col-md-2" style="background:rgb(78,115,223);">
         </div>
         <div class="col-md-10">
-            Copyright © CGV DashBoard Admin 2020
+            Copyright © CGV DashBoard Admin 2024
         </div>
     </div>
 </footer>

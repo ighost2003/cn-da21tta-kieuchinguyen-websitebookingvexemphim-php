@@ -27,5 +27,5 @@ $botMan->hears('Lịch chiếu Phim', function (BotMan $bot) {
     $a = 'Chưa có gì đâu bro';
     $bot->reply($a);
 });
-// Start listening
+// Start
 $botMan->listen();
